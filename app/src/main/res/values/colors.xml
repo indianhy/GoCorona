@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2D87DE</color>
+    <color name="colorPrimaryDark">#206FBD</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="FirePurple">#6B00A7</color>
+    <color name="FireBlue">#FD2D87DE</color>
+    <color name="FireGrey">#606060</color>
+    <color name="FireGreen">#29cd4d</color>
+    <color name="FireOrange">#E9EC762E</color>
+    <color name="FireParrot">#D5E63B</color>
+    <color name="FirePink">#FF5F55</color>
+    <color name="FireGreyLight">#728A8787</color>
+    <color name="FireCyan">#67BEDD</color>
+    <color name="FireBlueDark">#206FBD</color>
+    <color name="DeepBlue">#070432</color>
+    <color name="FireBrown">#332219</color>
+    <color name="FirePeach">#FFBD59</color>
+    <color name="FireGold">#FFD700</color>
+    <color name="FireViolet">#915DB0</color>
+    <color name="FireCherry">#A52A2A</color>
+    <color name="FireWhite">#ffffff</color>
+    <color name="FireBlack">#000000</color>
+    <color name="black_overlay">#33000000</color>
+</resources>
